@@ -1,0 +1,5 @@
+/*acá hubo un proble y queda detras del fixed del header por eso lo puse manual temporalemnte*/
+div .cien {
+    display: grid;
+    margin-top: 100px;
+}
