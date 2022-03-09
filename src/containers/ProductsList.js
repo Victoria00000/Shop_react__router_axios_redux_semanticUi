@@ -21,7 +21,7 @@ export const ProductsList = () => {
   console.log('products: ', products);
 
   return (
-    <div className='ui container grid'>
+    <div className='ui grid container'>
       <ProductComponent />
     </div>
   );
